@@ -1,1 +1,2 @@
 requests==2.24.0
+git+https://github.com/quay/py-bitbucket.git@85301693ce3682f8e1244e90bd8a903181844bde#egg=py_bitbucket
