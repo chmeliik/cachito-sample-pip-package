@@ -1,4 +1,3 @@
 requests==2.24.0
 git+https://github.com/quay/py-bitbucket.git@85301693ce3682f8e1244e90bd8a903181844bde#egg=py_bitbucket
-operator-manifest @ https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.zip#cachito_hash=sha256:bf07a297a64f5003b7a0174d2e6b1b34bd1095833c70d898e7ff8276c82a23dc
-operator-manifest @ https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.tar.gz#cachito_hash=sha256:e006af711df68665135eb311584ad2208f0d3559f773ba084f6d8a6815f34ab8
+https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.zip#cachito_hash=sha256:bf07a297a64f5003b7a0174d2e6b1b34bd1095833c70d898e7ff8276c82a23dc&egg=operator-manifest
