@@ -24,7 +24,7 @@ https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.zip#egg
     --hash=sha256:bf07a297a64f5003b7a0174d2e6b1b34bd1095833c70d898e7ff8276c82a23dc \
     # via -r requirements.in
 git+https://github.com/quay/py-bitbucket.git@85301693ce3682f8e1244e90bd8a903181844bde#egg=py_bitbucket \
-    --hash=sha256:asdf \
+    --hash=sha256:2c9607e4333a21e7c606ee8fed02c9d83fba83e6a1d6039ff58287cb30e69781 \
     # via -r requirements.in
 requests-oauthlib==1.3.0 \
     --hash=sha256:7f71572defaecd16372f9006f33c2ec8c077c3cfa6f5911a9a90202beb513f3d \
