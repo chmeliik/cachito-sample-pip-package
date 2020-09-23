@@ -20,7 +20,7 @@ oauthlib==3.1.0 \
     --hash=sha256:bee41cc35fcca6e988463cacc3bcb8a96224f470ca547e697b604cc697b2f889 \
     --hash=sha256:df884cd6cbe20e32633f1db1072e9356f53638e4361bef4e8b03c9127c9328ea \
     # via requests-oauthlib
-https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.zip#cachito_hash=sha256:bf07a297a64f5003b7a0174d2e6b1b34bd1095833c70d898e7ff8276c82a23dc&egg=operator-manifest \
+https://github.com/containerbuildsystem/operator-manifest/archive/v0.0.3.zip#egg=operator-manifest \
     --hash=sha256:bf07a297a64f5003b7a0174d2e6b1b34bd1095833c70d898e7ff8276c82a23dc \
     # via -r requirements.in
 git+https://github.com/quay/py-bitbucket.git@85301693ce3682f8e1244e90bd8a903181844bde#egg=py_bitbucket \
