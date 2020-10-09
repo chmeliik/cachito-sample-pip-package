@@ -136,7 +136,7 @@ pymemcache==3.0.0         # via -r requirements.in
 pymysql==0.9.3            # via -r requirements.in
 pyopenssl==19.1.0         # via -r requirements.in, ndg-httpsclient, python-etcd
 pyparsing==2.4.6          # via -r requirements.in, oslo.utils
-pypdf2==1.26.0            # via -r requirements.in, xhtml2pdf
+https://files.pythonhosted.org/packages/b4/01/68fcc0d43daf4c6bdbc6b33cc3f77bda531c86b174cac56ef0ffdb96faab/PyPDF2-1.26.0.tar.gz#egg=PyPDF2&cachito_hash=sha256:e28f902f2f0a1603ea95ebe21dff311ef09be3d0f0ef29a3e44a932729564385  # manually modified
 pyrsistent==0.15.7        # via -r requirements.in, jsonschema
 python-dateutil==2.8.1    # via -r requirements.in, alembic, botocore, elasticsearch-dsl, moto
 python-editor==1.0.4      # via -r requirements.in, alembic
