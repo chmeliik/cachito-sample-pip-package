@@ -1,9 +1,6 @@
 [submodule "cachito-pip-with-deps"]
 	path = cachito-pip-with-deps
 	url = https://github.com/cachito-testing/cachito-pip-with-deps.git
-[submodule "cachito-gomod-with-deps"]
-	path = cachito-gomod-with-deps
-	url = https://github.com/cachito-testing/cachito-gomod-with-deps.git
 [submodule "cachito-npm-test"]
 	path = cachito-npm-test
 	url = https://github.com/akhmanova/cachito-npm-test
