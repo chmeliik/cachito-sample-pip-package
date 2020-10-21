@@ -1,0 +1,9 @@
+[submodule "cachito-gomod-with-deps"]
+	path = cachito-gomod-with-deps
+	url = https://github.com/cachito-testing/cachito-gomod-with-deps
+[submodule "cachito-gomod-without-deps"]
+	path = cachito-gomod-without-deps
+	url = https://github.com/cachito-testing/cachito-gomod-without-deps
+[submodule "gomod-vendored"]
+	path = gomod-vendored
+	url = https://github.com/cachito-testing/gomod-vendored
